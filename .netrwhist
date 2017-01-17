@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/Gaelan/Documents/Curse/Minecraft/Instances/Thunk/config/forestry'
+let g:netrw_dirhist_2='/Users/Gaelan/Documents/musicblocks/js'
+let g:netrw_dirhist_3='/Users/Gaelan/Documents/TAGPack/TPoneten'
+let g:netrw_dirhist_4='/Users/Gaelan/Documents/TAGPack/TPoneten/loaders'
+let g:netrw_dirhist_5='/Users/Gaelan/Documents/TAGPack/TPoneten/src'
+let g:netrw_dirhist_6='/Users/Gaelan/Documents/GitHubMobileClient/ios/GitHubMobileClient/Base.lproj'
+let g:netrw_dirhist_7='/Users/Gaelan/Documents/GitHubMobileClient/ios/GitHubMobileClient/Images.xcassets'
